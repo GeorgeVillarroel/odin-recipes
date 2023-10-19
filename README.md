@@ -1,6 +1,11 @@
 # Odin Recipes
 Project about my favorite recipes
 
+## todo
+- change pages directory
+- make a gallery instead of four screenshots
+- add style to the website
+
 ## ver 1.0
 Basic html layout, connecting pages.
 
